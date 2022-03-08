@@ -1,0 +1,21 @@
+header {
+	display: block;
+	background: #B3B3B3;
+	font-size: 200%;
+	margin: 0px;
+	padding: 40px;
+	text-align: center;
+}
+
+h2 {
+	color: #e26f35;
+	font-family: Tahoma;
+	text-align: center;
+	display: block;
+	background: #B3B3B3;
+}
+
+h4 { 
+	color: #873e23; 
+	font-family: Tahoma;
+}
